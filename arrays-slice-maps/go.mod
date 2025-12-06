@@ -1,3 +1,3 @@
-module array-slice
+module array-slice-maps
 
 go 1.24.7
